@@ -1,0 +1,11 @@
+C:\WinformEmp\WinFormEmployeeApp\obj\Debug\WinFormEmployeeApp.csproj.AssemblyReference.cache
+C:\WinformEmp\WinFormEmployeeApp\obj\Debug\WinFormEmployeeApp.csproj.SuggestedBindingRedirects.cache
+C:\WinformEmp\WinFormEmployeeApp\obj\Debug\WinFormEmployeeApp.Form1.resources
+C:\WinformEmp\WinFormEmployeeApp\obj\Debug\WinFormEmployeeApp.Properties.Resources.resources
+C:\WinformEmp\WinFormEmployeeApp\obj\Debug\WinFormEmployeeApp.csproj.GenerateResource.cache
+C:\WinformEmp\WinFormEmployeeApp\obj\Debug\WinFormEmployeeApp.csproj.CoreCompileInputs.cache
+C:\WinformEmp\WinFormEmployeeApp\bin\Debug\WinFormEmployeeApp.exe.config
+C:\WinformEmp\WinFormEmployeeApp\bin\Debug\WinFormEmployeeApp.exe
+C:\WinformEmp\WinFormEmployeeApp\bin\Debug\WinFormEmployeeApp.pdb
+C:\WinformEmp\WinFormEmployeeApp\obj\Debug\WinFormEmployeeApp.exe
+C:\WinformEmp\WinFormEmployeeApp\obj\Debug\WinFormEmployeeApp.pdb
